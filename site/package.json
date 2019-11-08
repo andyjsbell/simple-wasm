@@ -1,0 +1,13 @@
+{
+    "scripts": {
+        "serve": "webpack-dev-server"
+    },
+    "dependencies": {
+        "@andyjsbell/simple-wasm": "^0.1.0"
+    },
+    "devDependencies": {
+        "webpack": "^4.41.2",
+        "webpack-cli": "^3.3.10",
+        "webpack-dev-server": "3.9.0"
+    }
+}
